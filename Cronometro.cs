@@ -10,4 +10,4 @@ namespace Temporizador
     {
     }
 }
-//Francisco Guillermo Ortiz Navarro
+//Francisco Guillermo Ortiz Navarro 22130885
